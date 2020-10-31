@@ -56,8 +56,15 @@ code diatas adalah **Fullname** . <br>
 2.Fungsi **input ()** adalah untuk memasukan nilai dari layar console di command prompt, lalu kemudian megembalikan nilai saat kita menekan tombol enter 
  *(newline)*
 <br>
+
 ![input](picture/nama_.PNG)
+
+
 Pada gambar diatas, hasil dari inputan tersebut berwarna *hijaw*<br>
+
+* Untuk perintah masukan yang lain seperti *nikname, NPM, Born, age, home, phone number, masukan perintah yang
+sama seperti memasukkan *Fullname*
+
 
 
 
